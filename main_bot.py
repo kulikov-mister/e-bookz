@@ -9,7 +9,7 @@ import database
 from translations import LANGUAGES, DEFAULT_LANGUAGE
 from tools import get_preferred_language
 
-API_TOKEN = '6517582671:AAF6iNB5xrG-GkKyoVAJFZquqM6aBblpsJs'
+API_TOKEN = 'token'
 
 logging.basicConfig(level=logging.INFO)
 
